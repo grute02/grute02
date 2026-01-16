@@ -1,77 +1,63 @@
-🚀 Hello, I'm Hyeonsseo Choi
+# [cite_start]💫 Hyeonsseo Choi [cite: 1067]
+[cite_start]**4th-year Computer Science Student @ Sungkonghoe Univ.** [cite: 1071]  
+`Pentest / Red Teaming` | `AI Security` | [cite_start]`Security Product Development` [cite: 1073, 1075]
 
-Aspiring Red Team Expert & Security Solution Developer 
+> [cite_start]"Designing enterprise intrusion scenarios and advancing AI-driven security solutions." [cite: 1081]
 
-I am a 4th-year Computer Science student at Sungkonghoe University, driven by a deep interest in Web Hacking, AI, and Security Product Development. I focus on identifying vulnerabilities and building secure, high-performance systems. 
+---
 
-🛠️ Tech Stack & Interests
+### 🛠 Tech Stack & Tools
+| Category | Skills |
+| :--- | :--- |
+| **Security** | [cite_start]![Web Hacking](https://img.shields.io/badge/Web_Hacking-red?style=flat-square) [cite: 1073] [cite_start]![AI Security](https://img.shields.io/badge/AI_Security-blue?style=flat-square) [cite: 1075] [cite_start]![Red Teaming](https://img.shields.io/badge/Red_Teaming-black?style=flat-square) [cite: 1081] |
+| **Languages** | [cite_start]![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) [cite: 1119] [cite_start]![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) [cite: 1123] [cite_start]![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) [cite: 1119] |
+| **Frontend** | [cite_start]![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) [cite: 1122] [cite_start]![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) [cite: 1124] [cite_start]![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) [cite: 1123] |
+| **Design/State** | [cite_start]![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) [cite: 1119] [cite_start]![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white) [cite: 1122] |
 
-Interests: Web Hacking, AI Security, Red Teaming, Backend Development 
+---
 
+### 🛡️ Security & Academic Journey
 
-Security Tools & Techniques: LLM Vulnerability Analysis, Web App Pentest, Real-time Anomaly Detection 
+#### [cite_start]**Information Security Club Q.E.D.** (1.5th Gen) [cite: 1102]
+* [cite_start]**Management Team Staff** & **INC0GNITO** Representative Staff [cite: 1104, 1105]
+* **Key Study Areas:**
+    * [cite_start]Windows PC KakaoTalk Database Decryption Analysis [cite: 1103]
+    * [cite_start]Information Security Fundamentals via Lv1 CTF [cite: 1103]
+    * [cite_start]Web Hacking Fundamentals (WebGoat) [cite: 1103]
+    * [cite_start]CRUD Development & CTF Write-up Practice [cite: 1103]
 
-Development:
+#### **External & Conference Activities**
+* [cite_start]**Project Team Staff:** Inc0gnito 2026 Operating Staff [cite: 1090]
+* [cite_start]**Participant:** BISC (BoB) & HolyShield Security Conferences [cite: 1091, 1092]
+* **Mentoring:** SJM React-based Frontend Project Mentoring (Figma & React)
 
+---
 
-Frontend: React (Vite, React-Query, Axios), Vue.js, Tailwind CSS, Styled-Components 
+### 🏆 Major Achievements & Projects
 
+#### **[Peopool] - Web Service Implementation**
+* [cite_start]**Silver Prize** at the 16th Sungkonghoe IT Competition (2025) [cite: 1108]
+* [cite_start]Optimized server state management and rendering performance using **React-Query** & **Axios** [cite: 1122, 1123]
 
-UI/UX: Figma (Wireframing, Component-based Design Systems) 
+#### **Security Learning & Development**
+* [cite_start]Developed a **Vue.js CRUD Board** for personal framework study [cite: 1124]
+* [cite_start]Built a component-based design system using **Figma** to enhance development efficiency [cite: 1120]
+* [cite_start]Documented various security techniques and CTF solutions in comprehensive **Write-ups** [cite: 1125]
 
-🛡️ Professional Experience & Activities
+---
 
-Information Security Club Q.E.D. (Member of 1.5th Gen) 
+### 🎯 Focus & Career Goals
+* [cite_start]**Internal Network Penetration:** Designing and executing corporate network intrusion scenarios [cite: 1081]
+* [cite_start]**AI Security:** Analyzing vulnerabilities in LLM (Large Language Models) and AI-driven services [cite: 1081]
+* [cite_start]**Anomaly Detection:** Advancing security solutions using deep learning for real-time threat detection [cite: 1081]
 
+---
 
-Role: Management Team Staff & INC0GNITO Representative Staff 
+### 📫 Let's Connect
+[cite_start][![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grute02) [cite: 1127]
+[cite_start][![Portfolio](https://img.shields.io/badge/Portfolio-Archive-FF5722?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1TgUe4tmsjWdXONVVxZI1TKIGJr2fwsmW?usp=sharing) [cite: 1128]
 
+---
 
-Completed Studies: 
-
-Windows PC KakaoTalk Database Decryption Analysis (Wonhyeok Choi)
-
-Information Security Fundamentals via Lv1 CTF (Wonhyeok Choi)
-
-Web Hacking Basics (WebGoat) (Minseo Kim)
-
-Web Hacking & Project Methodology (Seongmo Yoo)
-
-CRUD Development & CTF Practice (Seongmo Yoo)
-
-External Conferences & Programs
-
-Inc0gnito 2026: Project Team Staff 
-
-SJM Mentoring: React-based Frontend Web Clone Project (Figma & React) [User Data]
-
-
-Conferences: BISC (BoB), HolyShield (Catholic Univ.) 
-
-
-Personal Interests: Climbing Club (Weekly 2nd Anniversary Event) 
-
-💻 Key Projects
-
-Peopool (Web Service): Awarded Silver at the 16th Sungkonghoe University IT Competition. 
-
-Optimized server state management and rendering performance using React-Query. 
-
-
-Vue.js CRUD Board: Built a fully functional board system focusing on frontend architecture. 
-
-SJM Web Clone: Implemented high-fidelity web cloning using Figma and React. [User Data]
-
-🏆 Awards
-
-Silver Prize: 16th IT Competition (Project [Peopool]), Sungkonghoe University (1st Semester, 2025). 
-
-🔗 Connect with me
-
-Github: github.com/grute02 
-
-
-Archives: Google Drive Folder 
-
-
-Write-ups: Various security techniques and CTF solutions documented in private repositories.
+### 📊 GitHub Stats
+![Hyeonsseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=grute02&show_icons=true&theme=radical)
