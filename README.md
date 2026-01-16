@@ -1,5 +1,6 @@
 # 💫 Hyeonsseo Choi
-**4th-year Computer Science Student @ Sungkonghoe Univ.** `Pentest / Red Teaming` | `AI Security` | `Security Product Development`
+**4th-year Computer Science Student @ Sungkonghoe Univ.**
+`Pentest / Red Teaming` | `AI Security` | `Security Product Development`
 
 > "Designing enterprise intrusion scenarios and advancing AI-driven security solutions."
 
@@ -26,13 +27,9 @@
     * CRUD Development & CTF Write-up Practice
 
 #### **External & Conference Activities**
-### 🌐 Community & Networking
-* **Incognito 2026** | *Project Team Operating Staff*
-    - Representative staff for club project operations and security community engagement.
-* **Security Conference Engagement**
-    - **BISC (Best of the Best Information Security Conference)**: Explored latest industry trends and security leader insights.
-    - **HolyShield (Catholic Univ.)**: Participated in technical sessions and networking with local security experts.
-* **Mentoring:** SJM React-based Frontend Project Mentoring (Figma & React)
+* **Project Team Staff:** Inc0gnito 2026 Operating Staff
+* **Participant:** BISC (BoB) & HolyShield Security Conferences
+* **Mentoring:** SJM React-based Frontend Project Mentoring (Figma & React Implementation)
 
 ---
 
@@ -40,7 +37,8 @@
 
 #### **[Peopool] - Web Service Implementation**
 * **Silver Prize** at the 16th Sungkonghoe IT Competition (2025)
-* Optimized server state management and rendering performance using **React-Query** & **Axios**
+* Conducted **UI/UX design and prototyping** using Figma, creating high-fidelity wireframes and UI centered on user experience.
+* Established a **component-based design system** to maximize development efficiency and facilitate seamless communication within the team.
 
 #### **Security Learning & Development**
 * Developed a **Vue.js CRUD Board** for personal framework study
