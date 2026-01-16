@@ -55,10 +55,5 @@
 ---
 
 ### 📫 Let's Connect
-[![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grute02)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Archive-FF5722?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1TgUe4tmsjWdXONVVxZI1TKIGJr2fwsmW?usp=sharing)
-
----
-
-### 📊 GitHub Stats
-![Hyeonsseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=grute02&show_icons=true&theme=radical)
+h42381309@gmail.com
+https://github.com/grute02
