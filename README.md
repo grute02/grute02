@@ -26,8 +26,12 @@
     * CRUD Development & CTF Write-up Practice
 
 #### **External & Conference Activities**
-* **Project Team Staff:** Inc0gnito 2026 Operating Staff
-* **Participant:** BISC (BoB) & HolyShield Security Conferences
+### 🌐 Community & Networking
+* **Incognito 2026** | *Project Team Operating Staff*
+    - Representative staff for club project operations and security community engagement.
+* **Security Conference Engagement**
+    - **BISC (Best of the Best Information Security Conference)**: Explored latest industry trends and security leader insights.
+    - **HolyShield (Catholic Univ.)**: Participated in technical sessions and networking with local security experts.
 * **Mentoring:** SJM React-based Frontend Project Mentoring (Figma & React)
 
 ---
