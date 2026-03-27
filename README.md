@@ -55,5 +55,4 @@
 ---
 
 ### 📫 Let's Connect
-* **h42381309@gmail.com**
 * **https://github.com/grute02**
